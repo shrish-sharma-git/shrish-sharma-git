@@ -1,3 +1,5 @@
+<img src="https://github.com/shrish-sharma-git/shrish-sharma-git/blob/master/assets/Shrish%20Sharma.png" alt="Shrish Sharma Hero Image" height="400px">
+
 ### Hello 👋, I'm [Shrish](https://shrishsharma.me) 
 
 <br/>
@@ -20,3 +22,4 @@ I am also a Machile Learning and Artificial Intelligence Enthusiast. <br />
 Beside's programming, I like Gaming and Anime. <br />
 
 ![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-sharma-git&show_icons=true&hide_border=false)
+
