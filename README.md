@@ -24,4 +24,4 @@ Beside's programming, I like Gaming and Anime. <br />
 ![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-sharma-git&show_icons=true&hide_border=false)
 
 You can send your queries to: <connectwithshrish@gmail.com> <br/>
-Do check out my Portfolio: <www.shrishsharma.me> 
+Do check out my Portfolio: www.shrishsharma.me 
