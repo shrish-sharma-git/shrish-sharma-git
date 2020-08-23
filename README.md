@@ -3,7 +3,7 @@
 ### Hello 👋, I'm [Shrish](https://shrishsharma.me) 
 
 <br/>
-<a href="https://twitter.com/el_patron007">
+<a href="https://twitter.com/shrish_sharma_">
   <img align="left" alt="Shrish's Twitter | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shrish-sharma">
