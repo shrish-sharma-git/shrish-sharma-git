@@ -21,7 +21,9 @@ I'm a beginner in **Web Development** and **Android Development** <br />
 I am also a Machile Learning and Artificial Intelligence Enthusiast. <br />
 Beside's programming, I like Gaming and Anime. <br />
 
-![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-sharma-git&show_icons=true&hide_border=false)
+![](https://komarev.com/ghpvc/?username=shrish-sharma-git)
+
+![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=the-rebooted-coder&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/shrish-sharma-git)
 
 You can send your queries to: <connectwithshrish@gmail.com> <br/>
 Do check out my Portfolio: www.shrishsharma.me 
