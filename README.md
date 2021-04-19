@@ -1,4 +1,4 @@
-<img src="https://github.com/shrish-sharma-git/shrish-sharma-git/blob/master/assets/Shrish%20Sharma.gif" alt="Shrish Sharma Hero Image">
+<img src="https://github.com/shrish-sharma-git/shrish-sharma-git/blob/master/assets/header_git.gif" alt="Shrish Sharma Hero Image">
 
 ### Hello 👋, I'm [Shrish](https://shrishsharma.me) 
 
