@@ -18,7 +18,7 @@
 
 I'm a **Under-Graduate Student 👨🏽‍💼 [@Jaypee University of Engineering and Technology](https://www.juet.ac.in)** in Guna, IN. <br />
 I'm a beginner in **Web Development** and **Android Development** <br />
-I am also a Machile Learning and Artificial Intelligence Enthusiast. <br />
+I am also a Machine Learning and Artificial Intelligence Enthusiast. <br />
 Beside's programming, I like Gaming and Anime. <br />
 
 ![](https://komarev.com/ghpvc/?username=shrish-sharma-git)
