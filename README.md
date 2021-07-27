@@ -16,8 +16,8 @@
   <img align="left" alt="Shrish's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a><br /> <br />
 
-I'm a **Under-Graduate Student 👨🏽‍💼 [@Jaypee University of Engineering and Technology](https://www.juet.ac.in)** in Guna, IN. <br />
-I'm a beginner in **Web Development** and **Android Development** <br />
+I'm a **Pre-Final Year Student 👨🏽‍💼 [@Jaypee University of Engineering and Technology](https://www.juet.ac.in)** in Guna, IN. <br />
+Keenly interested in **Full-Stack Web Development** <br />
 I am also a Machine Learning and Artificial Intelligence Enthusiast. <br />
 Beside's programming, I like Gaming and Anime. <br />
 
