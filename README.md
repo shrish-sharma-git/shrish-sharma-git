@@ -1,6 +1,6 @@
 <img src="https://github.com/shrish-sharma-git/shrish-sharma-git/blob/master/assets/header_git.gif" alt="Shrish Sharma Hero Image">
 
-### Hello 👋, I'm [Shrish](https://shrishsharma.me) 
+### Hello 👋, I'm [Shrish](https://shrish-sharma-git.github.io/My-Portfolio/) 
 
 <br/>
 <a href="https://twitter.com/shrish_sharma_">
