@@ -23,6 +23,6 @@ Beside's programming, I like Gaming and Anime. <br />
 
 ![](https://komarev.com/ghpvc/?username=shrish-sharma-git)
 
-![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-sharma-git&count_private=true&theme=github_dark&show_icons=true)
-
+<!-- [![Shrish's github stats](https://github-readme-stats.vercel.app/api?username=shrish-sharma-git&count_private=true&theme=github_dark&show_icons=true)
+](url) -->
 You can send your queries to: <shrish0608@gmail.com> <br/>
