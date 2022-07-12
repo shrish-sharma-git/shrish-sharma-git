@@ -1,6 +1,6 @@
 <img src="https://github.com/shrish-sharma-git/shrish-sharma-git/blob/master/assets/header_git.gif" alt="Shrish Sharma Hero Image">
 
-### Hello 👋, I'm [Shrish](https://shrish-sharma-git.github.io/My-Portfolio/) 
+### Hello 👋, I'm [Shrish](https://shrish-sharma-git.github.io/) 
 
 <br/>
 <a href="https://twitter.com/shrish_sharma_">
@@ -16,7 +16,7 @@
   <img align="left" alt="Shrish's Instagram" width="30px" src="assets/logos/instagram.png" />
 </a><br /> <br />
 
-I'm a **Pre-Final Year Student 👨🏽‍💼 [@Jaypee University of Engineering and Technology](https://www.juet.ac.in)** in Guna, IN. <br />
+I'm a **Final Year Student 👨🏽‍💼 [@Jaypee University of Engineering and Technology](https://www.juet.ac.in)** in Guna, IN. <br />
 Keenly interested in **Full-Stack Web Development** <br />
 Beside's programming, I like Gaming and Anime. <br />
 
